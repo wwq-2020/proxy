@@ -1,0 +1,3 @@
+# proxy
+
+proxy request to service in k8s, like a library, no need to set kubectl port-forward pod ... 
